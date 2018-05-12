@@ -1,9 +1,8 @@
 _repo: Rogues-and-Vagabonds_46443
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46443/46443-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46443-h/images/cover.jpg
 creator:
   author:
     agent_name: Sims, George R.
@@ -15,6 +14,8 @@ creator:
     gutenberg_agent_id: '7938'
     url: http://www.gutenberg.org/2009/agents/7938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46443#Rogues-and-Vagabonds
 gutenberg_issued: '2014-07-29'
 gutenberg_type: Text
 identifiers:
