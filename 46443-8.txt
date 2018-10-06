@@ -11,7 +11,7 @@ Title: Rogues and Vagabonds
 Author: George R. Sims
 
 Release Date: July 29, 2014 [EBook #46443]
-Last Updated: July 26, 2015
+Last Updated: May 6, 2016
 
 Language: English
 
@@ -453,7 +453,7 @@ to-night, for instance----'
 
 Mr. Jabez is so suddenly interrupted by the warning eye of Mrs. Turvey
 that he gives a little cough, and swallows a little piece of muffin, and
-the redness which ensues, together with the extra shininess, maker,
+the redness which ensues, together with the extra shininess, makes
 him look like a setting sun sinking slowly below the horizon of Mrs.
 Turvey's tea-table.
 
@@ -476,7 +476,7 @@ the library of the firm's absent client. This is the business part
 of the acquaintanceship. But beyond this there is a little personal
 friendship. Mrs. Turvey is a spinster, in spite of her matronly
 appellation, and Mr. Duck is a bachelor. Mr. Duck stays occasionally
-to take a friendly cup of tea after his business has been transacted,
+to take a friendly cup of tea after his business has been transacted.
 Confidences have been exchanged; under the potent influence of the
 cheering cup their hearts have been opened, and little secrets have
 oozed out. Curiosity has been awakened on both sides, and the affairs of
@@ -490,7 +490,7 @@ importance to communicate, Mr. Duck should have been requested to come
 to tea that evening and have a quiet chat?
 
 Mrs. Turvey hated to hear important intelligence on the doorstep, or to
-have a secret imparted to hex in the vulgar daylight, when brushes
+have a secret imparted to her in the vulgar daylight, when brushes
 and brooms were about. If there was a nice delightful mystery to be
 revealed, or a little scandal to be whispered, let her drink it with her
 tea, after her work was done, and when she could sit still and enjoy it
@@ -829,7 +829,7 @@ his pockets; but it was the first time he had been homeless.
 He had been in America for some years, having left his native land in a
 hurry. He had returned a few weeks since, almost penniless, and tried in
 vain to drift into some means of gaining a livelihood. Every avenue was
-closed against him, for his past life was a scaled book, and he had no
+closed against him, for his past life was a sealed book, and he had no
 one to speak a good word for him. So he had hung on to existence till
 his last copper was spent, and now he was without even a shelter for the
 night.
@@ -847,7 +847,7 @@ which to spend the night, he drew his hands out of his trousers pockets
 to shake from the brim of his hat a small pool of water which had begun
 to trickle down his neck. He drew the lining of his pocket up at the
 same time, and a piece of folded paper fell on the ground. He picked it
-lip, opened it, and read it.
+up, opened it, and read it.
 
 It was an old acceptance, torn with lying long in folds and dirty with
 being carried about.
@@ -1118,7 +1118,7 @@ resumed its serious expression again directly.
 'No, it isn't that, Dr. Birnie; but I want you to ask grandfather not to
 swear at me. It hurts me here.'
 
-She put her hand on hor heart, and spoke with such earnest emphasis,
+She put her hand on her heart, and spoke with such earnest emphasis,
 that the doctor stopped on the threshold of the house, which they had
 just reached, and looked earnestly in her face.
 
@@ -1179,10 +1179,13 @@ judge, is Lion--he knows my pals in a minute.'
 
 'Yes.'
 
-'Then he ought not to growl at me. I'm one of your friends,' 'You're
-friendly as long as it suits yer purpose, that's all.'
+'Then he ought not to growl at me. I'm one of your friends,'
 
-'All right, Heckett; have it your own way. How's the head?' 'Orful;
+'You're friendly as long as it suits yer purpose, that's all.'
+
+'All right, Heckett; have it your own way. How's the head?'
+
+'Orful;
 can't sleep with it.'
 
 'Let's look at it again.'
@@ -1288,13 +1291,13 @@ he bolt to America for directly afterwards? Only he hadn't no motive,
 and the other had, and I allus looks at motives. Besides, anyway, it
 'ud be wus for you, now Egerton's drownded, than it would for me.
 You're better off now than you wos then, and he might want to go snacks,
-perhaps. A poor cove like me wouldn't be high enough same for him to fly
+perhaps. A poor cove like me wouldn't be high enough game for him to fly
 at.'
 
 Birnie glanced at the old dog-fancier, as he lay with his grey hair
 straggling over his bandaged head.
 
-'You're very poor, aren't you, Heckett!' he said present with a peculiar
+'You're very poor, aren't you, Heckett!' he said presently with a peculiar
 intonation in his voice.
 
 'Yes, I am. Curse you! what do you look like that at me for? Perhaps you
@@ -1382,10 +1385,11 @@ bacon and the most suspicious-looking egg from the dish before her.
 Having jerked these delicacies on to his plate, and thus ensured the
 survival of the fittest, she proceeded to help herself to the remainder.
 
-'Jabez,' said Miss Georgina suddenly, 'some day you will die!' 'Lor',
-Georgie, don't!' exclaimed Jabez, bolting a particularly cindery piece
-of bacon, and thereby nearly bringing his sister's prophecy off there
-and then.
+'Jabez,' said Miss Georgina suddenly, 'some day you will die!'
+
+'Lor', Georgie, don't!' exclaimed Jabez, bolting a particularly cindery
+piece of bacon, and thereby nearly bringing his sister's prophecy off
+there and then.
 
 When he had coughed and choked and increased in shininess from ten
 to thirty candle power, he gradually recovered, and, polishing his
@@ -1838,7 +1842,7 @@ week in advance--to a Mr. and Mrs. George Smith, a newly married couple.
 'I don't know,' answered Georgina, tartly; 'I've only seen the gentleman
 at present, and he _is_ a gentleman.'
 
-'Well, my dear, I didn't expect he was a lady with which remark Mr.
+'Well, my dear, I didn't expect he was a lady;' with which remark Mr.
 Jabez sat down and had his tea, utterly oblivious of the terrible
 contempt which spread itself over the features of his sister, who
 despised small jokes of any kind, and her brother's small jokes most of
@@ -1931,7 +1935,7 @@ once more appears at the peephole.
 'Cus I didn't choose. P'raps you'd like to know where he is, and
 where he was borned, Mr. Impertinence; and how many times he's been
 waksinated, and what he had for dinner o' Sunday. Come, what is it?'Ave
-you called to see the meter and help yourself to the hovercoals; or d'ye
+you called to see the meter and help yourself to the hovercoats; or d'ye
 want to be shown in and see which is the heasiest way through the back
 window on sone futur' ercashun?'
 
@@ -1987,10 +1991,12 @@ you owe me for directing you to Little Queer Street the other night.'
 
 The doctor started.
 
-'Good gracious, man! you don't mean to say that was you?' 'It was.
-Here's the card you gave me. I've given you three days credit as it is.'
-Marston drew the card from his pocket and give it to Birnie. 'That's how
-I knew where to find you. Deuced funny how things come about, isn't it?'
+'Good gracious, man! you don't mean to say that was you?'
+
+'It was. Here's the card you gave me. I've given you three days credit
+as it is.' Marston drew the card from his pocket and give it to Birnie.
+'That's how I knew where to find you. Deuced funny how things come
+about, isn't it?'
 
 Marston laughed. It wasn't a nice laugh, and the doctor didn't respond
 to it.
@@ -2009,7 +2015,7 @@ anything to eat with the chat.'
 The doctor pushed his gate open and walked in, followed by Marston. As
 they entered the house the servant came running to the doctor to tell
 him of the pertinacious shabby gentleman's visit. The look of disgust on
-her face when she saw the shabby gentleman in the hal! was intense. She
+her face when she saw the shabby gentleman in the hall, was intense. She
 tossed her head, muttered, 'Well, I'm sure!' and rushed downstairs to
 the kitchen to protect the spoons and forks.
 
@@ -2628,7 +2634,7 @@ When Gertie and Lion, were gone away, Heckett would lie and curse to his
 heart's content, and he had a companion who used to curse in chorus.
 
 There was a parrot among this strange collection who swore like
-a trooper, and who, since he had come to live with Heckett , had
+a trooper, and who, since he had come to live with Heckett, had
 considerably improved his vocabulary. It was grotesque but supremely
 awful to listen to the grey-haired reprobate shrieking and blaspheming
 and the parrot mocking him. Sometimes Heckett would lose his temper and
@@ -2785,7 +2791,7 @@ went with the precepts of the loving Lord in her heart instead of on her
 lips, and so she conquered where the professional missionary, male and
 female, failed utterly.
 
-She had taken a deep interest in Gertie from, the first, and, as the
+She had taken a deep interest in Gertie from the first, and, as the
 beauties of the child's nature blossomed in the sunshine of her care,
 she grew to love the little outcast with almost maternal love.
 
@@ -3043,8 +3049,10 @@ the vessel when the boats put off? 'I were, cap'en.'
 
 'And you left Mr. Egerton on board?'
 
-'There was a passenger o' that name, and I left him aboard.' 'Both boats
-were picked up, I believe, by a passing vessel on the second day?'
+'There was a passenger o' that name, and I left him aboard.'
+
+'Both boats were picked up, I believe, by a passing vessel on the second
+day?'
 
 'They was,' answered Mr Symonds.
 
@@ -3386,7 +3394,7 @@ fool as not to know how to open a book!
 
 George took the ledger and opened it. The old gentleman smiled.
 
-'You can write a name at the top of eachpage.'
+'You can write a name at the top of each page.'
 
 'What name?'
 
@@ -3891,7 +3899,7 @@ a-crying by the side of her.'
 
 'And you mean to say you have no idea who Gertie's father was?'
 
-'Not the ghost o'one. She raved about everything except that. The murder
+'Not the ghost o' one. She raved about everything except that. The murder
 was the principal thing she stuck to. "They're murdering Ralph!" she'd
 cry out; "Save yourself, Ralph!" but never a word about a sweetheart,
 and she died without telling us; and from that day to this I've never
@@ -3997,7 +4005,7 @@ rates called with a rate already made, and the water applied for two
 quarters unpaid by last tenant, and the representative of the local
 directory requested the full christian and surname of the new tenant.
 
-'Master's name's Mr. Edward Marston, and he's a haetor,' said
+'Master's name's Mr. Edward Marston, and he's a hactor,' said
 cherry-ribbons, flurried and excited with her continuous journeyings to
 the door. 'That's all I know, and he ain't at home now, so you can't see
 him.'
@@ -4033,7 +4041,7 @@ part of this story.
 He is a very different looking person now. His clothes are faultlessly
 cut, his hair is neatly arranged, his moustache is nicely trimmed, and
 his beard and whiskers have been shaved off. The strange, wild look
-is gone, and you see only a good-looking, well-built geutleman of
+is gone, and you see only a good-looking, well-built gentleman of
 five-and-thirty, who has nothing much to trouble him, unless a nice
 house be a trouble (it is, sometimes, I'm afraid), and who should
 certainly, if appearances go for anything, mix in good society and have
@@ -4286,7 +4294,7 @@ a student, and looked at the portraits upside down for a quarter of
 an hour without knowing it; and Jabez and George started a little
 conversation which we are ungallant enough to imagine will be of more
 interest to the reader than Miss Jackson's jeremiads, Bess's mechanical
-'Yeses' and 'Noes,' or Mies Duck's choice morsels of local gossip.
+'Yeses' and 'Noes,' or Miss Duck's choice morsels of local gossip.
 
 'And so you really like your new place. Well, I'm glad of that,' said
 Mr. Duck. 'Good places ain't easy found in the City.'
@@ -4303,7 +4311,7 @@ Jabez, presently.
 
 'Well,' said George, 'they have so many.'
 
-'Many offices! What do you moan?'
+'Many offices! What do you mean?'
 
 'Why, you see, I'm not attached to any office. One week I go to their
 office in Fenchurch Street, and perhaps the next I'm at Little Britain.
@@ -4339,7 +4347,7 @@ Duck, 'because there's a death in it.' Miss Jackson got her handkerchief
 ready.
 
 'It's the Egerton case I mean. You've seen the advertisement in the
-newspapers asking for proof of Sir. Gurth Egerton's death? Well, my
+newspapers asking for proof of Mr. Gurth Egerton's death? Well, my
 firm put that in. We're solicitors to the gent. There's no doubt he
 was drowned in the _Bon Espoir_. But the most curious part of it is the
 housekeeper, Mrs. Turvey'--Georgina turned up her nose here, and Miss
@@ -4348,11 +4356,12 @@ housekeeper, Mrs. Turvey, and her little girl distinctly saw an exact
 counterpart of Gurth Egerton at his own front door some time after the
 news of the wreck reached England.'
 
-'A ghost!' shrieked Miss Jackson; 'don't say it was a ghost.' 'Well, I
-don't know what else it could have been unless it was the drowned man
-himself; and if it was him, why should he open his front door and go
-away again? Why shouldn't he have said, "Mrs. Turvey, light the fire in
-my bed-room and air my nightshirt."'
+'A ghost!' shrieked Miss Jackson; 'don't say it was a ghost.'
+
+'Well, I don't know what else it could have been unless it was the
+drowned man himself; and if it was him, why should he open his front
+door and go away again? Why shouldn't he have said, "Mrs. Turvey, light
+the fire in my bed-room and air my nightshirt."'
 
 Miss Jackson hid her face, and Georgina exclaimed, 'Jabez!' Miss
 Jackson's brother buried his head in the album.
@@ -4363,8 +4372,9 @@ behaving as a live man would, he doesn't come in, and nothing more
 is heard of him. His friend, Dr. Birnie, is executor to his will, and
 inherits a good lump of his property; but Birnie can't touch a penny
 till we can prove the death of the man who came to his own front door
-after he was drowned.' 'But,' exclaimed George, 'surely if he was
-drowned you can prove it.'
+after he was drowned.'
+
+'But,' exclaimed George, 'surely if he was drowned you can prove it.'
 
 'Not easily, except by supposition. Some people left the ship before she
 sank. They all swear the passenger known as Egerton was not in either of
@@ -4623,7 +4633,7 @@ But one day Ralph, who had been sober for a month, broke out badly, and
 grew quarrelsome.
 
 Gurth kept his temper and refused to quarrel. It didn't suit him to
-part company with Ralph, One day he came suddenly upon Gertie at Ralph's
+part company with Ralph. One day he came suddenly upon Gertie at Ralph's
 house in St. John's Wood. The girl was coming out white-faced and
 red-eyed as Gurth want in. He questioned the servant.
 
@@ -4638,7 +4648,7 @@ and waiting for him to die, that he might have his money.
 
 'You're murdering me, you devil!' he shouted, his face distorted with
 passion. 'You're murdering me in your slimy serpent way, you know you
-are! You want me to drink myself to death, don't yoa? But I'll do you
+are! You want me to drink myself to death, don't you? But I'll do you
 yet, my fine scheming gentleman.'
 
 'You're drunk,' answered Gurth, biting his lip, 'or you wouldn't speak
@@ -5720,7 +5730,9 @@ Suddenly Marston brought his fist down on the table.
 present the cheque and bring the money back to you.'
 
 'Yes; but suppose he talks about it to Grigg and Limpet's clerk when he
-goes home?' 'He won't talk about it.'
+goes home?'
+
+'He won't talk about it.'
 
 'What do you mean?'
 
@@ -7383,8 +7395,9 @@ Mr. Brooks arrived a little later than usual, and busied himself with
 some papers at his desk for a while.
 
 Just before eleven be took a cheque from his poeket-book, exclaiming,
-'By Jove! Smith, I'd nearly forgotten it!' 'Forgotten what, sir?' said
-George.
+'By Jove! Smith, I'd nearly forgotten it!'
+
+'Forgotten what, sir?' said George.
 
 'Why, I received a cheque from Grigg and Limpet yesterday afternoon to
 buy tallow with for their client on the open market to-day.'
@@ -10433,8 +10446,9 @@ Mr. Edward Marston was taking the air at Dover. He had left town for
 the benefit of his health. One morning, walking upon the pier, whom
 should he meet but Mr. Brooks, formerly the manager of Smith and Co.
 
-'Ah, how do you do?' said Mr. Marston. 'Staying here?' 'Yes, for a
-little while,' answered Mr. Brooks.
+'Ah, how do you do?' said Mr. Marston. 'Staying here?'
+
+'Yes, for a little while,' answered Mr. Brooks.
 
 It was quite an accidental meeting, you see; but, having met, what more
 natural than that they should take a stroll together.
@@ -10455,12 +10469,14 @@ boat float, and commenced to converse with his companion.
 'The box was sent off yesterday,' he said; 'so that it will be at the
 parcels office this afternoon. You had better apply for it at once.'
 
-'All right; let me thoroughly understand what I have to do.' 'It's
-as simple as A B C,' answered Marston. 'Preene has bought for me five
-hundred pounds worth of bar gold and sent it down here by rail to be
-kept till called for. All bullion comes in special safes, and this must
-come that way. When you apply for the box it will be locked up in the
-safe and the clerk must get the key. Watch where he gets the key from.'
+'All right; let me thoroughly understand what I have to do.'
+
+'It's as simple as A B C,' answered Marston. 'Preene has bought for me
+five hundred pounds worth of bar gold and sent it down here by rail to
+be kept till called for. All bullion comes in special safes, and this
+must come that way. When you apply for the box it will be locked up in
+the safe and the clerk must get the key. Watch where he gets the key
+from.'
 
 'Yes, that's all easy enough. What else?'
 
@@ -11631,9 +11647,10 @@ exciting so much attention.
 Bank has stopped payment.'
 
 'Oh!' said Marston; 'I don't know much about commercial matters.
-Is there anything special about the circumstances?' 'No! only it is
-unlimited, and the shareholders will be beggars. The liabilities are
-immense.'
+Is there anything special about the circumstances?'
+
+'No! only it is unlimited, and the shareholders will be beggars. The
+liabilities are immense.'
 
 'Poor devils!' exclaimed Marston. 'I'm sorry for 'em; but, as I'm not a
 shareholder, it doesn't interest me.'
@@ -12826,8 +12843,10 @@ smile.
 
 'Going to retire, eh? Made your fortin. Well, you have had a good haul
 out of this affair, and no mistake. Come, gov'nor, don't you think
-you ought to stand me another thou.?' 'No, I don't,' answered Marston
-decidedly. 'A bargain's a bargain, and you've had your share.'
+you ought to stand me another thou.?'
+
+'No, I don't,' answered Marston decidedly. 'A bargain's a bargain, and
+you've had your share.'
 
 'All right, gov'nor; only, of course, the more I get now the less likely
 I should be to get hard up and 'ave pr'aps to come a ferretin' out old
@@ -14783,7 +14802,7 @@ would probably have recognised him.
 
 After breakfast on the morning when we renew our acquaintance with
 Edward, Ruth, and Gertie, the two ladies went up to old Mrs. Adrian's
-room, and left the geutleman alone.
+room, and left the gentleman alone.
 
 Mrs. Adrian had broken rapidly after her husband's death, and was now
 unable to leave her room.
@@ -16309,7 +16328,7 @@ confession, an_
 
 'The bottle with its contents has been handed to the police, though it
 is doubtful if any clue will ever be obtained to the meaning of this
-extraordinary message from, the sea.'
+extraordinary message from the sea.'
 
 Yes, to one man there was a clue.
 
@@ -16681,8 +16700,9 @@ completely into his confidence as this before.
 'But,' stammered Gurth, 'you know I----'
 
 'I know you stabbed your cousin, certainly, but it was only a scratch. I
-thought I told you I signed the certificate of his death.' 'Yes. To hide
-the real cause.'
+thought I told you I signed the certificate of his death.'
+
+'Yes. To hide the real cause.'
 
 'Nonsense! I signed a proper certificate. Ralph Egerton died from what I
 wrote on the certificate--from a complication of diseases brought on by
@@ -16695,9 +16715,10 @@ Gurth Egerton sat like a man in a dream.
 
 'I mean you've been accusing yourself all these years of a crime you
 never committed. I called a physician in to Ralph--he can be produced,
-if necessary. The cause of death was what I say.' 'Why, in God's name,
-did you never tell me this before, Birnie?' exclaimed Egerton, still
-half dazed.
+if necessary. The cause of death was what I say.'
+
+'Why, in God's name, did you never tell me this before, Birnie?'
+exclaimed Egerton, still half dazed.
 
 'I never knew you accused yourself of the murder,' said the doctor,
 quietly. 'I showed you the certificate.'
@@ -17537,9 +17558,11 @@ exhausted. 'Lord, Lord, only to think on it!'
 
 'You have done all this, my poor fellow,' said George, lifting the old
 man's head gently and putting the pillows right--'all this and more. You
-have made me the happiest man on earth!' 'I've made somebody happy at
-last,' sighed Josh, closing his eyes. 'Don't speak for a minute or two;
-I want to lie still and feel what doin' good be like.'
+have made me the happiest man on earth!'
+
+'I've made somebody happy at last,' sighed Josh, closing his eyes.
+'Don't speak for a minute or two; I want to lie still and feel what
+doin' good be like.'
 
 The little group sat silent when Josh Heckett lay with closed eyes, his
 thoughts wandering far away into the past.
@@ -17906,9 +17929,11 @@ sure I can't guess.'
 
 'Why, she's invited the whole of the Jarvises down, caravan and all,
 and, if you please, they are to perform for our special benefit an
-entirely new drama, written by Mr. Shakespeare Jarvis.' 'Oh, Ruth, you
-will come, won't you?' says Bess, clapping her hands, for Bess Heritage
-it is. 'I want only our old friends. You and Gertie must come--do!'
+entirely new drama, written by Mr. Shakespeare Jarvis.'
+
+'Oh, Ruth, you will come, won't you?' says Bess, clapping her hands, for
+Bess Heritage it is. 'I want only our old friends. You and Gertie must
+come--do!'
 
 Ruth laughs and nods her head.
 
